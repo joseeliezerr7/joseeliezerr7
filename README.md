@@ -1,7 +1,7 @@
 <h1 align="center">José Eliezer Rivera</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer &nbsp;·&nbsp; Field Technology Manager &nbsp;·&nbsp; Tegucigalpa, Honduras</strong>
+  <strong>Desarrollador Full-Stack · Fundador de Solutechn · Tegucigalpa, Honduras</strong>
 </p>
 
 <p align="center">
@@ -9,8 +9,12 @@
     <img src="https://img.shields.io/badge/Email-info%40solucionestechn.com-0A66C2?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://solucionestechn.com" target="_blank">
+    <img src="https://img.shields.io/badge/Solutechn-solucionestechn.com-0891B2?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://wacs-dashboard.solucionestechn.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Project-WACS_Dashboard-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Proyecto_Live-WACS_Dashboard-059669?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=joseeliezerr7&style=flat-square&color=0891B2&label=Profile+Views"/>
@@ -18,87 +22,99 @@
 
 ---
 
-## Professional Summary
+## Resumen Profesional
 
-Software developer and technology field manager with experience deploying and maintaining production systems in field environments. Currently serving as **Field Technician / Field Manager at Wycliffe Associates**, coordinating technology deployments for indigenous Bible translation projects across Honduras, including the Pech and Miskito language teams.
+Desarrollador de software con más de 5 años de experiencia creando soluciones digitales a medida para empresas y organizaciones en Honduras. Fundador de **Solutechn** (Soluciones Tecnológicas de Honduras), empresa especializada en desarrollo web, aplicaciones móviles, sistemas de escritorio, ERPs y consultoría tecnológica.
 
-Founder of **Solutechn** (Soluciones Tecnológicas de Honduras), providing custom software development, ERP integration, and IT consulting services for local organizations.
+Disponible para proyectos freelance. También me desempeño como **Técnico de Campo en Wycliffe Associates**, apoyando tecnológicamente equipos de traducción bíblica en idiomas indígenas.
 
-**M.Sc. — Universidad Internacional de La Rioja.**
+**Maestría — Universidad Internacional de La Rioja.** Certificaciones Oracle y Udemy.
 
 ---
 
-## Core Competencies
+## Competencias Técnicas
 
-| Area | Technologies |
+| Área | Tecnologías |
 |------|-------------|
-| **Frontend** | Next.js 14, React 18, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, REST APIs, Next.js API Routes |
-| **Databases** | SQLite, PostgreSQL, better-sqlite3 |
-| **Mobile** | React Native, Android testing |
-| **DevOps** | Git, Docker, Linux, CI/CD |
-| **Integrations** | Anthropic Claude API, Nodemailer, Gitea REST API |
-| **Document Generation** | @react-pdf/renderer, JSZip, USFM parsing |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Laravel (PHP), Node.js, Express, REST APIs |
+| **Bases de datos** | MySQL, PostgreSQL, SQLite |
+| **Móvil** | Flutter, React Native, Android |
+| **Escritorio** | Electron |
+| **DevOps / Infra** | Git, Docker, Linux, servidores, DNS, redes |
+| **Control de red** | Pi-hole, filtrado DNS, hosts file, restricciones router |
+| **Integraciones** | Claude API (Anthropic), Nodemailer, Gitea API, SMTP |
+| **Documentos** | @react-pdf/renderer, JSZip, USFM, DOCX, XLSX |
 
 ---
 
-## Selected Projects
+## Servicios — Solutechn
 
-### WACS Dashboard — Bible Translation Progress Monitor
-> **Production** · [wacs-dashboard.solucionestechn.com](https://wacs-dashboard.solucionestechn.com)
-
-A full-stack web application that connects to the WACS platform (content.bibletranslationtools.org) to provide real-time visibility into Bible translation projects across 66 books and multiple language codes.
-
-**Key capabilities:**
-- Real-time verse and chapter progress tracking per language project
-- Deep USFM content analysis — detects empty verses and untranslated chunks directly from source files
-- Multi-format export: `.tstudio` packages for BTT-Writer, ZIP archives, and USFM files
-- Automated email notification system with SQLite-backed subscription management
-- Customizable PDF report generation rendered client-side
-- Bilingual interface (Spanish / English) with dark and light mode
-
-**Stack:** Next.js 14 · TypeScript · Tailwind CSS · SQLite · Nodemailer · @react-pdf/renderer · Recharts
+- Desarrollo de aplicaciones web y móviles a medida
+- Sistemas ERP y gestión empresarial
+- Páginas web corporativas y e-commerce
+- Inteligencia de negocios (BI) y dashboards
+- Reparación y mantenimiento de equipos
+- Consultoría tecnológica para PYMEs hondureñas
 
 ---
 
-### ERP System with AI Natural Language Interface
-> **In Development** · Solutechn
+## Proyectos Destacados
 
-Custom ERP system integrating the Claude API to allow non-technical users to query business data using natural language. Designed for SMEs in Honduras with cost-optimized architecture using prompt caching.
+### WACS Dashboard — Monitor de Traducción Bíblica
+> **En producción** · [wacs-dashboard.solucionestechn.com](https://wacs-dashboard.solucionestechn.com)
 
----
+Plataforma web que conecta con la API de WACS para visualizar en tiempo real el avance de proyectos de traducción bíblica en 66 libros y múltiples idiomas indígenas. Incluye análisis profundo de archivos USFM, exportación a `.tstudio` para BTT-Writer, sistema de notificaciones automáticas por email y generación de reportes PDF personalizables.
 
-### Library & Inventory Management System — SETEPH
-> **Delivered** · Solutechn · Ref: COT-2026-003
-
-Full custom solution for Seminario Teológico Pentecostal/Presbiteriano de Honduras. Includes catalog management, inventory tracking, and reporting modules.
+`Next.js 14` `TypeScript` `Tailwind CSS` `SQLite` `Nodemailer` `@react-pdf/renderer` `Recharts`
 
 ---
 
-## GitHub Activity
+### ERP con Inteligencia Artificial — Solutechn
+> **En desarrollo**
+
+Sistema ERP personalizado con integración de Claude API para consultas en lenguaje natural. Arquitectura optimizada en costos con prompt caching, orientado a PYMEs hondureñas.
+
+`Laravel` `Node.js` `MySQL` `Claude API`
+
+---
+
+### Sistema de Biblioteca e Inventario — SETEPH
+> **Entregado** · Seminario Teológico Pentecostal/Presbiteriano de Honduras
+
+Solución completa de gestión de catálogo, control de inventario y reportes para institución académica teológica.
+
+`Laravel` `MySQL`
+
+---
+
+### Sistema de Gestión — Comercial Keren
+> **Entregado**
+
+Digitalización y automatización de registros operativos para empresa de seguridad en Honduras.
+
+`Laravel` `MySQL`
+
+---
+
+## Estadísticas GitHub
 
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=joseeliezerr7&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=0891B2&icon_color=0891B2&text_color=1e293b" alt="GitHub Stats"/>
   &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliezerr7&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=0891B2&text_color=1e293b" alt="Top Languages"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliezerr7&layout=compact&theme=default&hide_border=true&langs_count=7&title_color=0891B2&text_color=1e293b" alt="Top Languages"/>
 </p>
 
 ---
 
-## Current Focus
-
-- **BTT-Writer QA** — Structured software testing across Windows, macOS, Linux, and Android platforms on behalf of Wycliffe Associates
-- **AI integration in business systems** — Evaluating cost models and architecture patterns for Claude API integration in ERP environments
-- **Translation tooling** — Expanding WACS Dashboard capabilities for field translation coordinators
-
----
-
-## Contact
+## Contacto
 
 | | |
 |---|---|
-| **Organization** | Wycliffe Associates — Field Technician / Field Manager |
-| **Company** | Solutechn — Soluciones Tecnológicas de Honduras |
+| **Empresa** | Solutechn — Soluciones Tecnológicas de Honduras |
+| **Organización** | Wycliffe Associates — Técnico de Campo |
 | **Email** | info@solucionestechn.com |
-| **Location** | Tegucigalpa, Francisco Morazán, Honduras |
-| **Languages** | Spanish (native) · English (professional) |
+| **Web** | [solucionestechn.com](https://solucionestechn.com) |
+| **Ubicación** | Tegucigalpa, Francisco Morazán, Honduras |
+| **Freelance** | Disponible |
+| **Idiomas** | Español (nativo) · Inglés (profesional) |
