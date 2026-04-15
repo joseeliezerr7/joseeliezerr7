@@ -1,7 +1,7 @@
 <h1 align="center">José Eliezer Rivera</h1>
 
 <p align="center">
-  <strong>Desarrollador Full-Stack · Fundador de Solutechn · Tegucigalpa, Honduras</strong>
+  <strong>Desarrollador Full-Stack · Fundador de Solutechn · Juticalpa, Honduras</strong>
 </p>
 
 <p align="center">
