@@ -111,6 +111,6 @@ Digitalización y automatización de registros operativos para empresa de seguri
 | **Organización** | Wycliffe Associates — Técnico de Campo |
 | **Email** | info@solucionestechn.com |
 | **Web** | [solucionestechn.com](https://solucionestechn.com) |
-| **Ubicación** | Tegucigalpa, Francisco Morazán, Honduras |
+| **Ubicación** | Juticalpa, Olancho, Honduras |
 | **Freelance** | Disponible |
-| **Idiomas** | Español (nativo) · Inglés (profesional) |
+| **Idiomas** | Español (nativo) · Inglés (Basico) |
