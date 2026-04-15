@@ -100,12 +100,8 @@ Digitalización y automatización de registros operativos para empresa de seguri
 ## Estadísticas GitHub
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=joseeliezerr7&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=0891B2&icon_color=0891B2&text_color=1e293b" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliezerr7&layout=compact&theme=default&hide_border=true&langs_count=7&title_color=0891B2&text_color=1e293b" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joseeliezerr7&show_icons=true&hide_border=true&count_private=true&title_color=0891B2&icon_color=0891B2&text_color=1e293b&bg_color=ffffff" />
 </p>
-
----
 
 ## Contacto
 
